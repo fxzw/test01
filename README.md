@@ -1,4 +1,4 @@
-# hyperledger-simple-app
+# medicine-chain
 
 [![Build Status](https://travis-ci.org/zhazhalaila/hyperledger-simple-app.svg?branch=master)](https://travis-ci.org/zhazhalaila/hyperledger-simple-app) ![](https://img.shields.io/badge/language-javascript-blue.svg)
 
